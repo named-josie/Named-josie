@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jossy</h1>
+<h1 align="center">Hi 👋🏽, I'm Jossy 🌺</h1>
 <h3 align="center">A passionate Fullstack Web Developer from NYC</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=named-josie&label=Profile%20views&color=0e75b6&style=flat" alt="named-josie" /> </p>
