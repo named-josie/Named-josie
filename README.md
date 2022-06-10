@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏽, I'm Jossy 🌺</h1>
-<h3 align="center">A passionate Fullstack Web Developer from NYC</h3>
+<h3 align="center">✨A Passionate Fullstack Web Developer from NYC✨</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=named-josie&label=Profile%20views&color=0e75b6&style=flat" alt="named-josie" /> </p>
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **named.josie@gmail.com**
 
-- ⚡ Fun fact **I think I am Funny**
+- ⚡ Fun fact **I think I am Funny and I was born on Friday 13th**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
