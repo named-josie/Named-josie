@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **JavaScript and React**
 
-- 💬 Ask me about **SPACE**
+- 💬 Ask me about **Whatever you like**
 
 - 📫 How to reach me **named.josie@gmail.com**
 
