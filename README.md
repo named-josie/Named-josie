@@ -8,7 +8,7 @@
 
 
 <h1 align="center">Hi 👋🏽, I'm Josie 🌺</h1>
-<h3 align="center">✨A Passionate Fullstack Web Developer from NYC✨</h3>
+<h3 align="center">✨Fullstack Web Developer from NYC✨</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=named-josie&label=Profile%20views&color=0e75b6&style=flat" alt="named-josie" /> </p>
 
