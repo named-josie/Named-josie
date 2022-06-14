@@ -1,3 +1,11 @@
+
+
+https://user-images.githubusercontent.com/96319104/173571835-8d2c2a46-6844-4fb1-b622-be734b6964b8.mp4
+
+ 
+
+
+
 <h1 align="center">Hi 👋🏽, I'm Josie 🌺</h1>
 <h3 align="center">✨A Passionate Fullstack Web Developer from NYC✨</h3>
 
