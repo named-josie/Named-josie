@@ -14,20 +14,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=named-josie&label=Profile%20views&color=0e75b6&style=flat" alt="named-josie" /> </p>
   
+ <p align="left"> <a href="https://twitter.com/namedjosie" target="blank"><img src="https://img.shields.io/twitter/follow/namedjosie?logo=twitter&style=for-the-badge" alt="namedjosie" /></a> </p>
+  
+ <br> 
   <p align="center"> 
 <img width="479" alt="gitpic" src="https://user-images.githubusercontent.com/96319104/173740799-dfec5084-d780-42d0-81b7-1ef6a946f1d4.png">  </p>
 
-  <br>
-
-
-
-<p align="left"> <a href="https://twitter.com/namedjosie" target="blank"><img src="https://img.shields.io/twitter/follow/namedjosie?logo=twitter&style=for-the-badge" alt="namedjosie" /></a> </p>
-
-
 
 - 🔭 I’m currently working on [Student Dashboard](https://student-dasboard-josie.netlify.app/)
-
-- 🌱 I’m currently learning **JavaScript and React**
 
 - 💬 Ask me about **Whatever you like**
 
@@ -36,10 +30,8 @@
 ⚡ Some fun things about me ⚡ 
 * I think I am Funny 
 * I was born on Friday 13th
-* I'm a dog lover
 * I love traveling  
 * I'm into all things Disney, especially Marvel
-* I'm a movie enthusiast and music junkie
 * My weakness is Pizza.🍕
 
 <h3 align="left">Connect with me:</h3>
