@@ -58,4 +58,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=named-josie&layout=compact&theme=midnight-purple)](https://github.com/named-josie/github-readme-stats)
   
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=named-josie&repo=github-readme-stats&theme=aura)](https://github.com/named-josie/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=named-josie&repo=github-readme-stats)](https://github.com/maned-josie/github-readme-stats)
