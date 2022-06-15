@@ -24,7 +24,14 @@
 
 - 📫 How to reach me **named.josie@gmail.com**
 
-- ⚡ Fun fact **I think I am Funny and I was born on Friday 13th**
+- ⚡ Some fun things about me 
+* I think I am Funny 
+* I was born on Friday 13th
+* I'm a dog lover
+* I love traveling  
+* I'm into all things Disney, especially Marvel
+* I'm a movie enthusiast and music junkie
+* My weakness is Pizza.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
