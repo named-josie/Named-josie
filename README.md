@@ -9,12 +9,15 @@
 
 <h1 align="center">Hello World, I'm Josie! 👋🏽 Nice to virtually meet you here! 😄  </h1>
 
+I am Full Stack Software Engineer in the NYC with a Bachelor’s Degree and 6+ years professional experience in Business Administration Degree. I am a naturally curious person which makes me want to always learn new things, a problem-solver who questions everything, and a hard worker who doesn't take life too seriously and enjoys the little small things in life like pizza.
 
-<h3 align="center">✨Fullstack Web Developer from NYC✨</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=named-josie&label=Profile%20views&color=0e75b6&style=flat" alt="named-josie" /> </p>
 
 <p align="left"> <a href="https://twitter.com/namedjosie" target="blank"><img src="https://img.shields.io/twitter/follow/namedjosie?logo=twitter&style=for-the-badge" alt="namedjosie" /></a> </p>
+
+
 
 - 🔭 I’m currently working on [Student Dashboard](https://student-dasboard-josie.netlify.app/)
 
@@ -24,7 +27,7 @@
 
 - 📫 How to reach me **named.josie@gmail.com**
 
-- ⚡ Some fun things about me 
+⚡ Some fun things about me ⚡ 
 * I think I am Funny 
 * I was born on Friday 13th
 * I'm a dog lover
