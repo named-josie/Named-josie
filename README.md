@@ -7,7 +7,7 @@
 
 
 
-<h1 align="center">Hi 👋🏽, I'm Josie 🌺 JO-zee PAZ·Ka·See·O 🌺 </h1>
+<h1 align="center">Hi 👋🏽, I'm Josie </h1>
 
 
 <h3 align="center">✨Fullstack Web Developer from NYC✨</h3>
