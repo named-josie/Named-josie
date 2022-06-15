@@ -33,6 +33,8 @@
 * I'm into all things Disney, especially Marvel
 * My weakness is Pizza.🍕
 
+  <img width="479" alt="gitpic" src="https://user-images.githubusercontent.com/96319104/173823846-7176103b-9bb9-42da-9f3e-f1355a8e6488.png">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/namedjosie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="namedjosie" height="30" width="40" /></a>
