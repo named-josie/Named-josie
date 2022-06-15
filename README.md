@@ -48,7 +48,7 @@
 
 ### :fire: My Stats :
 
-  [Top Con](https://github-readme-streak-stats.herokuapp.com/?user=named-josie&theme=midnight-purple)
+  [!Jossy Pascasio](https://github-readme-streak-stats.herokuapp.com/?user=named-josie&theme=midnight-purple)
   
   ![Jossy Pascasio's GitHub stats](https://github-readme-stats.vercel.app/api?username=named-josie&show_icons=true&theme=midnight-purple)
 
