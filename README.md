@@ -26,7 +26,7 @@
 
 - 📫 How to reach me **named.josie@gmail.com**
 
-⚡ Some fun things about me ⚡ 
+⚡ @@Some fun things about me@@ ⚡ 
 * I think I am Funny 
 * I was born on Friday 13th
 * I love traveling  
