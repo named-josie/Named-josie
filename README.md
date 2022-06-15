@@ -54,7 +54,7 @@
  ![Stats](https://github-readme-streak-stats.herokuapp.com/?user=named-josie&theme=midnight-purple)
   
   
-  ![Jossy's GitHub stats](https://github-readme-stats.vercel.app/api?username=named-josie&theme=aura_icons=true)
+  !['s GitHub stats](https://github-readme-stats.vercel.app/api?username=named-josie&show_icons=true&theme=aura)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=named-josie&layout=compact&theme=midnight-purple)](https://github.com/named-josie/github-readme-stats)
   
