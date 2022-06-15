@@ -7,8 +7,8 @@
 
 
 
-<h1 align="center">Hi 👋🏽, I'm Josie 🌺 </h1>
-<h2 align="center">JO-zee PAZ·Ka·See·O</h2>
+<h1 align="center">Hi 👋🏽, I'm Josie 🌺 JO-zee PAZ·Ka·See·O 🌺 </h1>
+
 
 <h3 align="center">✨Fullstack Web Developer from NYC✨</h3>
 
