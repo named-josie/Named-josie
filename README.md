@@ -44,4 +44,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=named-josie&show_icons=true&locale=en" alt="named-josie" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=named-josie&" alt="named-josie" /></p>
-![Josie's GitHub stats](https://github-readme-stats.vercel.app/api?username=named-josie&show_icons=true&theme=radical)
+
+![Jossy Pascasio's GitHub stats](https://github-readme-stats.vercel.app/api?username=named-josie&show_icons=true&theme=radical)
