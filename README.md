@@ -53,9 +53,9 @@
 
  ![Stats](https://github-readme-streak-stats.herokuapp.com/?user=named-josie&theme=midnight-purple)
   
-  ![Jossy Pascasio's GitHub stats](https://github-readme-stats.vercel.app/api?username=named-josie&show_icons=true&theme=midnight-purple)
+  
+  ![Jossy's GitHub stats](https://github-readme-stats.vercel.app/api?username=named-josie&theme=aura_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=named-josie&layout=compact&theme=midnight-purple)](https://github.com/named-josie/github-readme-stats)
   
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=named-josie&repo=github-readme-stats)](https://github.com/maned-josie/github-readme-stats)
