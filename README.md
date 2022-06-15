@@ -52,6 +52,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=named-josie&layout=compact&theme=midnight-purple)](https://github.com/named-josie/github-readme-stats)
   
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=named-josie&" alt="named-josie" /></p>
-
+[![Top Con](https://github-readme-streak-stats.herokuapp.com/?user=named-josie&theme=midnight-purple)]
 
