@@ -9,7 +9,7 @@
 
 <h1 align="center">Hello World, I'm Josie! 👋🏽 Nice to virtually meet you here! 😄  </h1>
 
-<h4>I am Full Stack Software Engineer in the NYC with a Bachelor’s Degree and 6+ years professional experience in Business Administration. I am a naturally curious person which makes me want to always learn new things, a problem-solver who questions everything, and a hard worker who doesn't take life too seriously and enjoys the little small things in life like pizza.<h4>
+<h4>I am Full Stack Software Engineer in the NYC with a Bachelor’s Degree and 6+ years professional experience in Business Administration. I am a naturally curious person which makes me want to always learn new things, a problem-solver who questions everything, and a hard worker who doesn't take life too seriously and enjoys the little small things in life like pizza. 🍕 <h4>
 
 
 
@@ -34,7 +34,7 @@
 * I love traveling  
 * I'm into all things Disney, especially Marvel
 * I'm a movie enthusiast and music junkie
-* My weakness is Pizza.
+* My weakness is Pizza.🍕
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
