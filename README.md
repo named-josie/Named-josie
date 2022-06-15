@@ -27,11 +27,11 @@
 - 📫 How to reach me **named.josie@gmail.com**
 
 ⚡ Some fun things about me ⚡ 
-♡ I think I am Funny 
-♡ I was born on Friday 13th
-♡ I love traveling  
-♡ I'm into all things Disney, especially Marvel
-♡ My weakness is Pizza.🍕
+* I think I am Funny 
+* I was born on Friday 13th
+* I love traveling  
+* I'm into all things Disney, especially Marvel
+* My weakness is Pizza.🍕
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -50,7 +50,7 @@
 
   ![Jossy Pascasio's GitHub stats](https://github-readme-stats.vercel.app/api?username=named-josie&show_icons=true&theme=midnight-purple)
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=named-josie)](https://github.com/named-josie/github-readme-stats&theme=midnight-purple)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=named-josie)](https://github.com/named-josie/github-readme-stats&theme=dark)
   
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=named-josie&" alt="named-josie" /></p>
 
