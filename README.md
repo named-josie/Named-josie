@@ -8,15 +8,18 @@
 
 
 <h1 align="center">Hello World, I'm Josie! 👋🏽 Nice to virtually meet you here! 😄  </h1>
+<br>
 
 <h4>I am Full Stack Software Engineer in the NYC with a Bachelor’s Degree and 6+ years professional experience in Business Administration. I am a naturally curious person which makes me want to always learn new things, a problem-solver who questions everything, and a hard worker who doesn't take life too seriously and enjoys the little small things in life like pizza. 🍕 <h4>
 
- <p align="center"> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=named-josie&label=Profile%20views&color=0e75b6&style=flat" alt="named-josie" /> </p>
+  
+  <p align="center"> 
 <img width="479" alt="gitpic" src="https://user-images.githubusercontent.com/96319104/173740799-dfec5084-d780-42d0-81b7-1ef6a946f1d4.png">  </p>
 
   <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=named-josie&label=Profile%20views&color=0e75b6&style=flat" alt="named-josie" /> </p>
+
 
 <p align="left"> <a href="https://twitter.com/namedjosie" target="blank"><img src="https://img.shields.io/twitter/follow/namedjosie?logo=twitter&style=for-the-badge" alt="namedjosie" /></a> </p>
 
