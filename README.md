@@ -33,7 +33,8 @@
 * I'm into all things Disney, especially Marvel
 * My weakness is Pizza.🍕
 
-  <img width="479" alt="gitpic" src="https://user-images.githubusercontent.com/96319104/173823846-7176103b-9bb9-42da-9f3e-f1355a8e6488.png">
+<p align="center">  <img width="479" alt="anotherpic" src='https://user-images.githubusercontent.com/96319104/173824017-7984ef46-32b2-476b-bdd2-fe635aec332a.png'> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
