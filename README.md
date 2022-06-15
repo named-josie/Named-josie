@@ -7,7 +7,7 @@
 
 
 
-<h1 align="center">Hello World, I'm Josie! 👋 🏽 Nice to virtually meet you here 😄  </h1>
+<h1 align="center">Hello World, I'm Josie! 👋🏽 Nice to virtually meet you here! 😄  </h1>
 
 
 <h3 align="center">✨Fullstack Web Developer from NYC✨</h3>
