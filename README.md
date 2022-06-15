@@ -48,9 +48,9 @@
 
 ### :fire: My Stats :
 
-  ![Jossy Pascasio's GitHub stats](https://github-readme-stats.vercel.app/api?username=named-josie&show_icons=true&theme=tokyonight)
+  ![Jossy Pascasio's GitHub stats](https://github-readme-stats.vercel.app/api?username=named-josie&show_icons=true&theme=midnight-purple)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=named-josie)](https://github.com/named-josie/github-readme-stats=true&theme=tokyonight)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=named-josie)](https://github.com/named-josie/github-readme-stats=true&theme=midnight-purple)
   
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=named-josie&" alt="named-josie" /></p>
 
