@@ -51,11 +51,11 @@
 
 ### :fire: My Stats :
 
- ![Stats](https://github-readme-streak-stats.herokuapp.com/?user=named-josie&theme=rose_pine)
+ ![Stats](https://github-readme-streak-stats.herokuapp.com/?user=named-josie&theme=panda)
   
   
-  !['s GitHub stats](https://github-readme-stats.vercel.app/api?username=named-josie&show_icons=true&theme=rose_pine)
+  !['s GitHub stats](https://github-readme-stats.vercel.app/api?username=named-josie&show_icons=true&theme=panda)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=named-josie&layout=compact&theme=rose_pine)](https://github.com/named-josie/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=named-josie&layout=compact&theme=panda](https://github.com/named-josie/github-readme-stats)
   
   
