@@ -26,12 +26,12 @@
 
 - 📫 How to reach me **named.josie@gmail.com**
 
-⚡ @@Some fun things about me@@ ⚡ 
-* I think I am Funny 
-* I was born on Friday 13th
-* I love traveling  
-* I'm into all things Disney, especially Marvel
-* My weakness is Pizza.🍕
+⚡ Some fun things about me ⚡ 
+♡ I think I am Funny 
+♡ I was born on Friday 13th
+♡ I love traveling  
+♡ I'm into all things Disney, especially Marvel
+♡ My weakness is Pizza.🍕
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -47,7 +47,7 @@
 <p><a href="https://www.buymeacoffee.com/named.josie"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="named.josie" /></a></p><br><br>
 
 
-![Jossy Pascasio's GitHub stats](https://github-readme-stats.vercel.app/api?username=named-josie&show_icons=true&theme=radical)
+![Jossy Pascasio's GitHub stats](https://github-readme-stats.vercel.app/api?username=named-josie&show_icons=true&theme=tokyonight)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=named-josie&" alt="named-josie" /></p>
 
