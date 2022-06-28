@@ -20,7 +20,7 @@
 <img width="479" alt="gitpic" src="https://user-images.githubusercontent.com/96319104/173740799-dfec5084-d780-42d0-81b7-1ef6a946f1d4.png">  </p>
 
 
-- 🔭 I’m currently working on [Student Dashboard](https://student-dasboard-josie.netlify.app/)
+- 🔭 I’m currently working on [Studio Ghibli](https://studioghibli-app.netlify.app//)
 
 - 💬 Ask me about **Whatever you like**
 
