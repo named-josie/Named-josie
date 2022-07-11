@@ -15,7 +15,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=named-josie&label=Profile%20views&color=0e75b6&style=flat" alt="named-josie" /> </p>
   
- <p align="left"> <a href="https://twitter.com/namedjosie" target="blank"><img src="https://img.shields.io/twitter/follow/namedjosie?logo=twitter&style=for-the-badge" alt="namedjosie" /></a> </p>
+<!--  <p align="left"> <a href="https://twitter.com/namedjosie" target="blank"><img src="https://img.shields.io/twitter/follow/namedjosie?logo=twitter&style=for-the-badge" alt="namedjosie" /></a> </p> -->
   
  <br> 
   <p align="center"> 
