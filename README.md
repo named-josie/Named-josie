@@ -52,8 +52,8 @@
 <p><a href="https://www.buymeacoffee.com/namedjosie"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="namedjosie" /></a></p><br><br>
 
 ### :fire: My Stats :
-   
-   https://www.codewars.com/users/Pas-ca-sio/badges/large
+   <p><a href=https://www.codewars.com/users/Pas-ca-sio> <img align="center" src=" https://www.codewars.com/users/Pas-ca-sio/badges/large" height="50" width="210" alt="Pas-ca-sio" /></a></p><br><br>
+  
 
  ![Stats](https://github-readme-streak-stats.herokuapp.com/?user=named-josie&theme=midnight-purple)
   
