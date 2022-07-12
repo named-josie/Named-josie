@@ -53,7 +53,7 @@
 
 ### :fire: My Stats :
    
-   (https://www.codewars.com/users/Pas-ca-sio/badges/large)
+   https://www.codewars.com/users/Pas-ca-sio/badges/large
 
  ![Stats](https://github-readme-streak-stats.herokuapp.com/?user=named-josie&theme=midnight-purple)
   
