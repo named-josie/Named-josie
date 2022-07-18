@@ -1,9 +1,13 @@
 
-  
+
+
+
+
+<p align="center">
+  <img width="1200"  src="https://user-images.githubusercontent.com/96319104/179443181-37cfc7ff-e92a-401f-a835-43cc9ea913f5.gif">
+</p>
  
 
-
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/96319104/177413991-601b6eaf-1cc5-4e3b-adca-25b9938a2d2b.gif)
 
 
 
@@ -54,6 +58,7 @@
 ### :fire: My Stats :
  
   ![StatsCode](https://www.codewars.com/users/named.josie/badges/large)
+  
   
 
  ![Stats](https://github-readme-streak-stats.herokuapp.com/?user=named-josie&theme=midnight-purple)
