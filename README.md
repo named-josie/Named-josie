@@ -15,7 +15,7 @@
 
 <h1 align="center">Hello World, I'm Josie! 👋🏽 Nice to virtually meet you! 😄  </h1>
 
-<h4>I am Full Stack Software Engineer in the NYC with a Bachelor’s Degree and 6+ years professional experience in Business Administration. I am a naturally curious person which makes me want to always learn new things, a problem-solver who questions everything, and a hard worker who doesn't take life too seriously and enjoys the little small things in life like pizza. 🍕 <h4>
+<h4>I'm a full-stack software engineer in NYC. I consider myself a naturally curious person which makes me want to always learn new things, a problem-solver who questions everything, and a hard worker who doesn't take life too seriously and enjoys the little small things in life like a GOOD 🎶playlist or 📺 series not to mention a Podcast!!! Please feel free to recommend. <h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=named-josie&label=Profile%20views&color=481bfa&style=flat" alt="named-josie" /> </p>
   
